@@ -273,3 +273,6 @@ __pycache__/
 *.pyc
 
 **/Properties/launchSettings.json
+
+# ignore postgres data
+./Postgres/data
