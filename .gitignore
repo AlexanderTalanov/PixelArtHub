@@ -275,4 +275,4 @@ __pycache__/
 **/Properties/launchSettings.json
 
 # ignore postgres data
-./Postgres/data
+Postgres/data/
